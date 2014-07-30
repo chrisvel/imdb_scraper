@@ -1,7 +1,5 @@
-imdb scraper 
+imdb Movie synopsis common word extractor 
 =================================================================
-
-.: Get movie statistics data for further development :.
 
 This software retrieves the synopsis of the movie and creates a dictionary with all words used plus their frequency 
 from the `Internet Movie Database `<http://www.imdb.com/>`_.
@@ -45,7 +43,7 @@ The software has been setup to print all words that are over 5 characters long a
     8 replies
     7 trying
     7 before
-    ----------------------------------------------------------------------------------------------------
+    ---------------------------------------------------------------------------------
     
 License
 -------
