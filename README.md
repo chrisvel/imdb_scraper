@@ -2,7 +2,7 @@ imdb Movie synopsis common word extractor
 =================================================================
 
 This software retrieves the synopsis of the movie and creates a dictionary with all words used plus their frequency 
-from the `Internet Movie Database `<http://www.imdb.com/>`_.
+from the `Internet Movie Database`.
 
 
 Installation and requirements
