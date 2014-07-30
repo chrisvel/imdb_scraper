@@ -1,8 +1,10 @@
-imdb scraper --- Get statistics data for further development
+imdb scraper 
 =================================================================
 
+.: Get movie statistics data for further development :.
+
 This software retrieves the synopsis of the movie and creates a dictionary with all words used plus their frequency 
-from the `Internet Movie Database <http://www.imdb.com/>`_.
+from the `Internet Movie Database `<http://www.imdb.com/>`_.
 
 
 Installation and requirements
@@ -17,9 +19,10 @@ Installation and requirements
 Usage
 -----
 
+The software has been setup to print all words that are over 5 characters long and appear over 15 times in the synopsis.
+
     python imdb_scraper.py
     
-
     No titles found, input via console:
     Enter movie names, separated by comma: matrix
     ===============================Starting to scrape==============================
