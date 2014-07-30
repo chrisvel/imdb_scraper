@@ -11,13 +11,39 @@ Installation and requirements
 - Python 3.3
 - BeautifulSoup 4
 
+- Tested on a virtualenv 
+
 
 Usage
 -----
 
     python imdb_scraper.py
+    
 
-
+    No titles found, input via console:
+    Enter movie names, separated by comma: matrix
+    ===============================Starting to scrape==============================
+    - Got html from website
+    - Scanning for data in movielink: http://www.imdb.com/title/tt0133093/
+    - Synopsis url is: http://www.imdb.com/title/tt0133093/synopsis
+    * Found: [1644] unique words out of [6586]
+    104 Morpheus
+    62 Trinity
+    44 Matrix
+    33 Cypher
+    31 Agents
+    17 Oracle
+    12 himself
+    11 building
+    10 through
+    9 humans
+    8 inside
+    8 appears
+    8 replies
+    7 trying
+    7 before
+    ----------------------------------------------------------------------------------------------------
+    
 License
 -------
 ::
